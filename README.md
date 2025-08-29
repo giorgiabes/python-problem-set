@@ -1,2 +1,1 @@
-# pps
-Python Problem Set
+# Python Problem Set
