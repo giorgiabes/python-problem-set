@@ -67,5 +67,5 @@ No
 
 ## Check50
 ```
-submit50 cs50/problems/2022/python/deep --local
+check50 cs50/problems/2022/python/deep --local
 ```
