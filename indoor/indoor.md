@@ -19,12 +19,6 @@ $
 
 <img src="demo.gif" alt="demo">
 
-<video controls width="720" preload="metadata" poster="thumb.png">
-  <source src="demo.mp4" type="video/mp4" />
-  Sorry—your browser can’t play this video. 
-  <a href="demo.mp4">Download MP4</a>.
-</video>
-
 
 ## How to Test
 - Run your program with `python indoor.py`. Type `HELLO` and press Enter. Your program should output `hello`.
