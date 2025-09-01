@@ -36,6 +36,9 @@ Expression: -1 + 100
 99.0
 ```
 
+<img src="../gifs/interpreter.gif" alt="demo">
+
+
 ## How to Test
 
 Here’s how to test your code manually:
