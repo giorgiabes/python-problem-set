@@ -37,6 +37,9 @@ snake_case: preferred_first_name
 $
 ```
 
+<img src="../gifs/camel.gif" alt="demo">
+
+
 ## Before You Begin
 In directory `camel` run:
 ```
