@@ -17,7 +17,7 @@ hello, world
 $
 ```
 
-<img src="demo.gif" alt="demo">
+<img src="../gifs/indoor.gif" alt="demo">
 
 
 ## How to Test
