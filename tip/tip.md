@@ -35,6 +35,9 @@ Leave $7.50
 $
 ```
 
+<img src="../gifs/tip.gif" alt="demo">
+
+
 ## How to Test
 Here’s how to test your code manually:
 
