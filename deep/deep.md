@@ -37,6 +37,9 @@ Yes
 $
 ```
 
+<img src="../gifs/deep.gif" alt="demo">
+
+
 ## Before You Begin
 
 In directory deep run:
