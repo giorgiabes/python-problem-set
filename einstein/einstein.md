@@ -17,6 +17,8 @@ E: 4500000000000000000
 $
 ```
 
+<img src="../gifs/einstein.gif" alt="demo">
+
 ## Hot to Test
 Here’s how to test your code manually:
 
