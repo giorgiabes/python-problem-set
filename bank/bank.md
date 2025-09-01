@@ -38,6 +38,9 @@ $20
 $
 ```
 
+<img src="../gifs/bank.gif" alt="demo">
+
+
 ## Before You Begin
 
 In directory bank run:
