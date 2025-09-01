@@ -38,6 +38,9 @@ File name: cat
 application/octet-stream
 ```
 
+<img src="../gifs/extensions.gif" alt="demo">
+
+
 ## Before You Begin
 
 In directory extensions run:
