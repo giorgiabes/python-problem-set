@@ -46,6 +46,9 @@ dinner time
 $
 ```
 
+<img src="../gifs/meal.gif" alt="demo">
+
+
 ## Challenge
 If up for a challenge, optionally add support for 12-hour times, allowing the user to input times in these formats too:
 - `#:## a.m`. and `##:## a.m`.
